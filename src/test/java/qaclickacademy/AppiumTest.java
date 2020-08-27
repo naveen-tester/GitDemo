@@ -10,6 +10,13 @@ public class AppiumTest {
 	@Test
 	public void ios() {
 		System.out.println("Ios application");
+		System.out.println("Ios application");
+		System.out.println("Ios application");
+		System.out.println("Ios application");
+	}
+	@Test
+	public void ios123() {
+		System.out.println("Ios application");
 	}
 	}
 
