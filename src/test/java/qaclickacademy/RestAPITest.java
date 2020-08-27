@@ -13,6 +13,7 @@ public class RestAPITest {
 		System.out.println(" Amazon Web service line test 1");
 		System.out.println(" Amazon Web service line test 2");
 		System.out.println(" Amazon Web service line test 3");
+		System.out.println("Web services");
 		}
 	@Test
 	public void Salesforce() {

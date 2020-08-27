@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void websitetesting() {
 		System.out.println("Web application testing");
 		System.out.println("Browser automation");
+		System.out.println("Web services");
 	}
 	@Test
 	public void functionaltesting() {
